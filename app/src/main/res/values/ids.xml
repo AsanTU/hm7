@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result" type="id" />
+    <item name="btn_tree" type="id" />
+    <item name="share_btn" type="id" />
+    <item name="share_btn1" type="id">share</item>
+    <item name="btn_tochka" type="id" />
+    <item name="btn_otris" type="id" />
+    <item name="btn_clear" type="id" />
+    <item name="btn_plus" type="id" />
+    <item name="umnojenie" type="id" />
+    <item name="delenie" type="id" />
+    <item name="btn_prosent1" type="id" />
+    <item name="btn_prosent2" type="id" />
+    <item name="btn_prosent" type="id">prosent1</item>
+    <item name="btn_equal" type="id" />
+    <item name="textView" type="id" />
+    <item name="btnCrash" type="id" />
+</resources>
